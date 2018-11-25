@@ -1,0 +1,85 @@
+img {
+    max-width: 100%;
+}
+
+hr { 
+    width: 100%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #7d97ad;
+} 
+
+#footer-msg {
+  margin: 0px;
+  padding: 15px;
+  color: #fff;
+  background: #000;
+}
+
+#logo-img {
+  width: 200px;
+}
+
+.wallpaper-container {
+  background-image: url('../img/laptop_desk.jpg');
+  min-height: 60vh;
+}
+
+.project-box {
+  text-align: center;
+}
+
+
+
+.wallpaper-text {
+  margin: 0px;
+  padding: 10vh 0px;
+}
+
+.fill {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.dim {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: black;
+  opacity: 0.3;
+}
+
+.pos-rel {
+  position: relative;
+}
+
+.code {
+    padding: 2px;
+    background: #f2f2f2:
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+    border: 1px solid grey;
+    margin-bottom: 10px;
+}
+
+.project-img {
+  width: 200px;
+  display: block;
+  margin: auto;
+}
+
+.project-work {
+    color: #7d97ad;
+}
+
+.header-text-box {
+  text-align: right;
+}
+
+.row {
+  margin: 0px 0px 15px 0px;
+}
+
+
